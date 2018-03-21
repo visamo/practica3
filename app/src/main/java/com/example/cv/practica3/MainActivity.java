@@ -212,7 +212,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
 
     private void listar(){
-
+        Toast.makeText(this, "No Implementado", Toast.LENGTH_SHORT).show();
 
     }
 
